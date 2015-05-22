@@ -1,5 +1,9 @@
 package Diagramarefinado.Finanza;
-
+/**
+ * 
+ * @author Alfredo
+ *
+ */
 public class Mensualidad {
 
 	public void regPagoMensualidad() {
